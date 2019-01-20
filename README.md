@@ -1,1 +1,2 @@
-This repository contains implementation of machine learning algorithms for different objectives(classification or regression)
+This repository contains implementation of machine learning algorithms in python for different objectives(classification or regression)
+
